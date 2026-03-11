@@ -1,0 +1,10 @@
+This project was updated after the first push.
+
+Topics learned:
+1. VS Code project setup
+2. Python file structure
+3. API calling basics
+4. Git init
+5. Git add
+6. Git commit
+7. GitHub push
